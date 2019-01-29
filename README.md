@@ -1,23 +1,27 @@
-<h3 align="center">
-Adaptation of <a href="https://github.com/kamranahmedse/design-patterns-for-humans">Design Patterns for Humans</a>  to C#
+<h3 align="center" dir="rtl">
+ترجمه فارسی انطباق <a href="https://github.com/kamranahmedse/design-patterns-for-humans">Design Patterns for Humans</a>  به سی شارپ C#
 </h3>
-<p align="center"><sub>All the explanation for design patterns stays the same, with minor changes.</sub></p>
+<p align="center" dir="rtl"><sup>تمام توضیحات مشابه مطلب اصلی هستند و فقط مثال‌ها به زبان C# خواهند بود و باقی مطلب فقط ترجمه شده‌است.<sup></p>
 
 ****
 
-<p align="center">
-🎉 Ultra-simplified explanation to design patterns! 🎉
+<p align="center" dir="rtl">
+🎉 توضیح بسیار ساده الگوهای طراحی 🎉
 </p>
-<p align="center">
-A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+<p align="center"dir="rtl">
+موضوعی که ممکن است ذهن هر کسی را به هم بریزد. در اینجا من سعی می‌کنم این موضوع را به طور کامل در ذهن شما (و البته خودم) با توضیح دادن اونها به <i>ساده‌ترین</i> شکل ممکن جای دهم
 </p>
-<p align="center">
-You can find full length examples for code snippets used in this article <a href="https://github.com/anupavanm/csharp-design-patterns-for-humans-examples">here.</a>
+<p align="center" dir="rtl">
+می‌توانید مثال‌های کامل مربوط به این مقاله را از <a href="https://github.com/anupavanm/csharp-design-patterns-for-humans-examples">اینجا</a> مشاهده کنید.
 </p>
 
+<div dir="rtl" style="text-align:right;">
+    
 ****
-🚀 Introduction
+🚀 معرفی
 =================
+
+</div>
 
 Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
 
