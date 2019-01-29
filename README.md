@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link>
 <h3 align="center" dir="rtl">
 ترجمه فارسی انطباق <a href="https://github.com/kamranahmedse/design-patterns-for-humans">Design Patterns for Humans</a>  به سی شارپ C#
 </h3>
