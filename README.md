@@ -46,13 +46,27 @@
 
 </div>
 
-⚠️ Be Careful
+<div dir="rtl" style="text-align:right;">
+    
+⚠️ مراقب باشید    
 -----------------
-- Design patterns are not a silver bullet to all your problems.
-- Do not try to force them; bad things are supposed to happen, if done so. Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
-- If used in a correct place in a correct manner, they can prove to be a savior; or else they can result in a horrible mess of a code.
 
-> Also note that the code samples below are in C#-7, however this shouldn't stop you because the concepts are same anyways. Plus the **support for other languages is underway**.
+</div>
+
+<div dir="rtl" style="text-align:right;">
+
+- الگوهای طراحی گوی جادویی نیست که همه مشکلات شما را حل کند
+- سعی نکنید به زور از آنها استفاده کنید، که اگر این کار را بکنید ممکن است اتفاقات بدی رخ دهد. فراموش نکنید که الگوهای طراحی راه‌حل‌هایی <b>برای</b>
+مشکلات هستند، نه راه‌حلی‌هایی
+برای <b>یافتن</b>
+ مشکلات؛ بنابراین زیاد به مغزتان فشار نیاورید.
+ - اگر در زمان درست و مکان درست از آن‌ها استفاده کنید، میتوانند نجات‌دهنده باشند؛ در غیر این صورت باعث به‌هم‌ریختگی بسیار زیادی در کد خواهدشد.
+ 
+ > همچنین توجه کنید که نمونه کدهای زیر مربوط به 
+ C#-7
+ است، هرچند نباید مانع کار یادگیری شما شود چون مفاهیم همواره یک چیز است. علاوه‌براین می‌توانید از ریپوزیتوری اصلی پیگیر باشید شاید زبان‌های دیگر هم پشتیبانی شود.
+
+</div>
 
 Types of Design Patterns
 -----------------
