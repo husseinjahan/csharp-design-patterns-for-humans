@@ -78,7 +78,7 @@
 <div dir="rtl" style="text-align:right;">
     
     
-* [سازنده (Creational)](#creational-design-patterns)
+* [سازنده (Creational)](#الگوهای-طراحی-سازنده)
 * [ساختاری (Structural)](#structural-design-patterns)
 * [رفتاری (Behavioral)](#behavioral-design-patterns)
 
