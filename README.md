@@ -25,7 +25,7 @@
 </div>
 <p dir="rtl" style="text-align:right;">
 الگوهای طراحی راه‌حل‌هایی برای مشکلات تکراری هستند: 
-<b>دستورالعمل‌هایی برای مقابه با مشکلات خاص هستند</b>.
+<b>دستورالعمل‌هایی برای مقابله با مشکلات خاص هستند</b>.
 این الگوهای طراحی کلاس، پکیج یا کتابخانه‌ای نیستند که بتوانید آنها را به پروژه خود اضافه کنید و منتظر جادویشان باشید. 
 در عوض، دستورالعمل‌هایی هستند در مورد چگونگی مقابله با مشکلات خاص در شرایط خاص.
 </p>
@@ -38,7 +38,7 @@
 ویکیپدیا می‌گوید:
 
 
-> در مهندسی نرم‌افزار، یک الگوی طراحیِ نرم‌افزار یک راه‌حل عمومی با قابلیت باز-استفادگی
+> در مهندسی نرم‌افزار، یک الگوی طراحیِ نرم‌افزار یک راه‌حل عمومی با قابلیت استفاده مجدد
  (reusable) 
  برای یک مشکل تکراری در یک زمینه خاص از طراحی نرم‌افزار است. این الگو یک طراحی پایانی که بتواند به زبان ماشین یا سورس کد تبدیل شود نیست؛ در حقیقت یک توضیحات یا قالب
  (template)
@@ -68,21 +68,43 @@
 
 </div>
 
-Types of Design Patterns
+<div dir="rtl" style="text-align:right;">
+    
+انواح الگوهای طراحی
 -----------------
 
-* [Creational](#creational-design-patterns)
-* [Structural](#structural-design-patterns)
-* [Behavioral](#behavioral-design-patterns)
+</div>
 
-Creational Design Patterns
+<div dir="rtl" style="text-align:right;">
+    
+    
+* [سازنده (Creational)](#creational-design-patterns)
+* [ساختاری (Structural)](#structural-design-patterns)
+* [رفتاری (Behavioral)](#behavioral-design-patterns)
+
+</div>
+
+<div dir="rtl" style="text-align:right;">
+    
+الگوهای طراحی سازنده
 ==========================
 
-In plain words
-> Creational patterns are focused towards how to instantiate an object or group of related objects.
+</div>
 
-Wikipedia says
-> In software engineering, creational design patterns are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation.
+<div dir="rtl" style="text-align:right;">
+
+به زیان ساده
+> الگوهای سازنده بر روی چگونگی وهله‌سازی (اینتنس‌گیری) یک شیء یا گروهی از اشیاء امرکز دارد.
+
+ویکیپدیا می‌گوید:
+
+> در مهندسی نرم‌افزار، الگوهای طراحی سازنده، الگوهای طراحی‌ای هستند که با مکانیزم‌های ساختن شیء کار دارند، تلاش می‌کنند اشیاء را با روشی متناسب با موقعیت بسازند. فرم ابتدایی برای ساختن یک شیء ممک است مشکلات طراحی ایجاد کند یا به پیچیپگی طراحی اضافه کند. الگوهای طراحی سازنده به نوعی با کنترل این ساختن شیء این مشکل را حل کرده‌است.
+
+</div>
+
+<div dir="rtl" style="text-align:right;">
+
+اسامی راه بهتر است با همان نام انگلیسی به خاطر بسپارید.
 
  * [Simple Factory](#-simple-factory)
  * [Factory Method](#-factory-method)
@@ -90,6 +112,9 @@ Wikipedia says
  * [Builder](#-builder)
  * [Prototype](#-prototype)
  * [Singleton](#-singleton)
+
+</div>
+
 
 🏠 Simple Factory
 --------------
